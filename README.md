@@ -26,13 +26,14 @@ If you are not comfortable performing this mod yourself, consider that a sign th
     - [(Optional) Integrated battery level indicator](#optional-integrated-battery-level-indicator)
   - [BOM](#bom)
   - [Assembly](#assembly)
+  - [References](#references)
 
 ## TODO
 
 Things to do before public release.
 
 - Battery case
-  - Figure out if 4s2p battery config fits, otherwise 3s2p
+  - Figure out if 3s3p battery config fits, otherwise 3s2p
   - Identify BMS
   - Build and test
   - BOM
@@ -84,3 +85,9 @@ Voltmeter
 ## Assembly
 
 ...Under construction...
+
+## References
+
+This project was put together with the following reference material:
+
+- [Digitakt modified with internal battery forum post](https://www.elektronauts.com/t/digitakt-modified-with-internal-battery/91600/)
