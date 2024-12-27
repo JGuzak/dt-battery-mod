@@ -46,16 +46,10 @@ Battery
 
 - 1x battery case
 - BMS
-- 6x batteries
+- 6x (or 9?) batteries
 - 3x screws (Only needed for DT2)
 - Red and black wires (at least 10 gauge)
 - hot glue (Only needed for DT)
-
-Battery+
-
-- 1x battery+ case
-- BMS
-- 8x batteries
 
 Voltmeter
 
